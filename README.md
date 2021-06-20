@@ -4,4 +4,3 @@ An IoT messenger app written in python using Paho MQTT which provides a client c
 ### Library/Tech used
 - Paho MQTT
 - Python Tkinter
-- 
